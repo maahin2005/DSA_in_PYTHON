@@ -5,7 +5,7 @@ N = len(string)
 
 # Step 1: Find Out the Sub Strings
 # step 2: check the sub string length is Prime or not
-# step 3: latly count the all substring whichever length has Prime
+# step 3: lastly count the all substring whichever length has Prime
 
 def isPrime(num):
     if num <= 1:
