@@ -4,6 +4,9 @@ class Node:
         self.next = next
 
 def convertArrToLL(arr):
+    if not arr:
+        return None
+     
     head = Node(arr[0])
     mover = head
     for i in range(1,len(arr)):
