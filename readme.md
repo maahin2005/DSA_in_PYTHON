@@ -6,7 +6,7 @@ Welcome to my DSA with Python repository! Here, you'll find a comprehensive coll
 
 Hi, I'm Mahin Malek, a driven and passionate fresher aiming to become a professional in Data Structures and Algorithms. Through consistent practice and dedication, I am building this repository to document my learning journey and to help others who are on the same path. Your support and feedback mean a lot to me!
 
-## Topics Covered 📚
+## Targeted Topics 📚
 
 - Strings
 - Arrays
