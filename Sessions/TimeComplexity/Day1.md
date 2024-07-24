@@ -59,17 +59,22 @@
 
 <!-- TC: O() -->
 
-<!-- you have arr - unsorted --> Data
-<!-- We want to sort it --> all the step for sorting this arr is the called as Algorithm
-<!-- what you we get --> sorted arr
+- you have arr - unsorted --> Data
+- We want to sort it --> all the step for sorting this arr is the called as Algorithm
+- what you we get --> sorted arr
 
 ### const arr = [1,2,3,4,5] - O(n) - o(5) - n= length of the arr
 
-<!-- Primitive data types creation are O(1)/constant -->
-<!-- Non Primitve data types creation are O(N)-->
+- Primitive data types creation are O(1)/constant -->
+- Non Primitve data types creation are O(N)-->
 
 1. O(1)
 2. O(log n)
 3. O(N)
 4. O(n log n) // mixer of 2nd and 3rd
 5. O(N^2)
+
+O(1) < O(log n) < O(n) < O(n log n) < O(N^2)
+
+any Number > log of that number
+5 > 2
