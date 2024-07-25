@@ -47,7 +47,7 @@
 
 ### Time complexity O(1)/constant
 
-- const myName = "Name"; // TC: O(1) => Constant Time Complexity // 50ms
+- const myName = "Name"; // TC: O(1) => Constant Time Complexity
 - const myValue = "val"
 - const obj = {}
 - const arr = []
@@ -69,12 +69,13 @@
 - Non Primitve data types creation are O(N)-->
 
 1. O(1)
-2. O(log n)
+2. O(log n) - length: 8: log of 8? 3
 3. O(N)
 4. O(n log n) // mixer of 2nd and 3rd
 5. O(N^2)
 
-O(1) < O(log n) < O(n) < O(n log n) < O(N^2)
+O(1) < O(log n) < O(n) < O(n log n) < O(N^2) < O(2^n) < O(n!)
 
-any Number > log of that number
-5 > 2
+- n lon n => o(n) + O(log n)
+  any Number > log of that number
+  5 > 2
