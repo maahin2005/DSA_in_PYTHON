@@ -2,7 +2,7 @@
 # You need to find out if there is a subarray, which has the sum exactly as K.
 
 K = 5
-arr = [1, 2, 1, 3]
+arr = [1, 2, 3, 1]
 N = len(arr)
 
 
