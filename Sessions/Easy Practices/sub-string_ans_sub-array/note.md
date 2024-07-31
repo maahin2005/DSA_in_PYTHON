@@ -8,12 +8,12 @@
 
 string = "karan"
 
-- k
-- ka
-- kar
-- kara
-- karan
-- a
+- k - 1
+- ka - 2
+- kar - 3
+- kara - 4
+- karan - 5
+- a - 1
 - ar
 - ara
 - aran
