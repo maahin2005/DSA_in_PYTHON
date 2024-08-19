@@ -14,6 +14,8 @@ arr = [-3, -2, -1, 0, 3, 4, 5, 7]
 # we start while loop and find mid index
 # then we compare and find
 
+# TC: O(log N)
+
 def bs(arr,target):
     N = len(arr)
 
